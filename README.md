@@ -39,7 +39,7 @@ MixedNUTS combines predictions from an accurate model and a robust model via a n
 
 ---
 
-# Configuration setups
+## Configuration setups
 
 The `tuned_models/best_mixednuts_config.json` file stores the configuration for the MixedNUTS model parameters and can be adjusted as needed.
 
@@ -124,7 +124,7 @@ python main.py --mode visualize --model-name mixednuts --output-dir adv_images_m
 
 ---
 
-# Performance example
+## Performance example
 
 Clean and robust models were trained on 100 epochs.
 
