@@ -1,0 +1,9 @@
+{
+    "epsilon_fgsm": 0.03,
+    "epsilon_pgd": 0.01,
+    "pgd_alpha": 0.004,
+    "pgd_steps": 40,
+    "clean_weight": 0.37,
+    "fgsm_weight": 0.26,
+    "pgd_weight": 0.37
+}

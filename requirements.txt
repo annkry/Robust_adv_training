@@ -1,7 +1,8 @@
-torch
-torchvision
-numpy
-pillow
-tqdm
+torch==2.5.1
+torchvision==0.20.1
+numpy==1.26.4
+pillow==11.1.0
+tqdm==4.67.1
 git+https://github.com/fra31/auto-attack
-torchattacks
+torchattacks==3.5.1
+pandas==2.2.3
